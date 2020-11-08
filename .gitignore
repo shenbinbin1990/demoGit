@@ -1,3 +1,3 @@
-workspace.xml
+.idea/workspace.xml
 .idea
-com.szzj.web.MyTest.java
+src/com/szzj/web/MyTest.java
